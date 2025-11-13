@@ -3,6 +3,7 @@
 A simple and interactive **Quiz Game** built with **HTML, CSS, and JavaScript**.  
 Players can test their knowledge by answering multiple-choice questions and seeing their final score at the end.
 
+🌐 Live Demo: [View here](https://yoyoooz.github.io/quiz-game/)
 ---
 
 ## 🧠 Overview
