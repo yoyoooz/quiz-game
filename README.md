@@ -20,5 +20,3 @@ Questions and answers are dynamically handled via JavaScript, allowing you to ea
 - 🔁 Restart option at the end  
 
 ---
-## Credits
-- Coded by [Youmna](https://github.com/yoyoooz)
